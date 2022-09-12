@@ -21,6 +21,7 @@ const hamburger = 3;
 const fries = 1;
 const cola = 0;
 const bigTasty = 2;
+const bigMag = 3;
 
 // // Возвращает первый ложный ответ! 0! false
 // console.log(hamburger === 3 && cola === 1 && fries);
